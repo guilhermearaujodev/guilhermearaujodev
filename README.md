@@ -1,5 +1,6 @@
 <h1>Future Full-Stack Web Developer Loading..</h1>
 
+<h2>Atuo na área de TI desde 2019, atualmente procuro minha primeira oportunidade para atuar como Desenvolvedor.</h2>
 
 <div>
 <a href="https://github.com/guilhermearaujodev">
