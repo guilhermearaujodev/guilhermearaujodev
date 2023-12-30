@@ -1,6 +1,7 @@
 <h1>System Analyst and Developer</h1>
 
-<h2>Atuo na área de TI desde 2019, tenho experiência na área de suporte técnico e suporte a sistemas. Estou em busca de atuar como Desenvolvedor.</h2>
+<h2>Atuo na área de TI desde 2019, tenho experiência na área de suporte técnico e suporte a sistemas.
+<p>Estou em busca de atuar como Desenvolvedor.</p></h2>
 
 <div>
 <a href="https://github.com/guilhermearaujodev">
@@ -9,7 +10,7 @@
 </div>
 
 ----------------------------
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="" min-width="400px" max-width="400px" width="400px" align="right" alt="">
 
 ## My Skills:
 
