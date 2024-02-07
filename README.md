@@ -1,7 +1,7 @@
 <h1>System Analyst and Developer</h1>
 
-<h2>Atuo na área de TI desde 2019, tenho experiência na área de suporte técnico e suporte a sistemas.
-<p>Estou em busca de atuar como Desenvolvedor.</p></h2>
+<h2>Profissional com 5 anos de experiência na área de TI. 
+<p>Tenho conhecimento com suporte de sistemas, suporte técnico e desenvolvimento de softwares.</p></h2>
 
 <div>
 <a href="https://github.com/guilhermearaujodev">
@@ -14,7 +14,7 @@
 
 ## My Skills:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
 
 ## Workstation Tools: 
 
